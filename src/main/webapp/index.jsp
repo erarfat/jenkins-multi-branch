@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 align="center">Arfat Shaikh</h2>
+<h1>Arfat Shaikh</h1>
 </body>
 </html>
